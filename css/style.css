@@ -89,3 +89,12 @@ button{
     padding: 2px 20px;
     border-radius: 3px;
 }
+
+.link-diva:hover, .link-diva:focus {
+    background-color: #ffffff20;
+    color: #ffffff;
+    text-decoration: underline;
+    padding: 5px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
